@@ -1,5 +1,4 @@
 **Bike Sharing Prediction**
-**Bike Sharing Prediction**
 
 The data is about the bike-sharing program and was hosted in Kaggle.
 
@@ -137,4 +136,3 @@ height="2.8673611111111112in"}
     ![](media/image5.png){width="3.9159722222222224in"
     height="3.38125in"}![](media/image6.png){width="3.0694444444444446in"
     height="2.109027777777778in"}
-
